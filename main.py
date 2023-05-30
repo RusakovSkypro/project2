@@ -1,5 +1,1 @@
-def foo():
-    pass
-
-def minus():
-    pass
+print('hello world')
